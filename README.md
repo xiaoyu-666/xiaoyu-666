@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 😄 I‘m 小鱼, I‘m a coder.
+- 🌱 I’m familiar with Vue, React, JavaScript/TypeScript/Nodejs, vite, uni-app, Flutter.
+- 🔭 I‘m currently doing front-end development for an Internet company.
+
+### Contact me
+- website: https://xiaoyu-666.github.io/
+- email: zxy668893@163.com
+- addr: Hohhot, Inner Mongolia, China
+
 <!--
 **xiaoyu-666/xiaoyu-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
