@@ -33,11 +33,13 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?style=flat-square&logo=webpack)
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-24acf2?style=flat-square&logo=VisualStudioCode&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=ffffff)
+![git](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+![github](https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logoColor=ffffff)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
